@@ -1,0 +1,32 @@
+@charset "UTF-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+body h3 {
+}
+body h1 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 3px 0px #CB3E41;
+}
+h3 {
+	text-align: center;
+	text-shadow: 1px 0px #CB3E41;
+}
+
+body h4 {
+	text-decoration: underline;
+	text-transform: capitalize;
+	text-align: left;
+	color: #99363A;
+}
+.container .container .row1 {
+	text-align: center;
+	text-shadow: 2px 0px #C33C3F;
+}
+.container .container .row {
+	text-shadow: 1px 0px #972123;
+}
+
+
